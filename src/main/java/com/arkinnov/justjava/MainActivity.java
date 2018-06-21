@@ -24,6 +24,7 @@ import java.text.NumberFormat;
 /**
  * This app displays an order form to order coffee.
  */
+// this is a coffee ordering app
 public class MainActivity extends AppCompatActivity {
     int quantity = 2;
     int price = 5;
